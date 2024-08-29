@@ -1,6 +1,8 @@
+package acwing_Java_1;
+
 import java.util.Scanner;
 
-public class acwing_608 {
+public class acwing_Li_2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
